@@ -8,6 +8,13 @@ end
 gem 'bootstrap-sass', '3.3.7'
 gem 'jquery-ui-rails'
 gem 'jquery-rails'
+
+gem 'carrierwave', '1.1.0'
+
+gem 'mini_magick', '4.7.0'
+
+gem 'fog', '1.40.0'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
 gem 'bcrypt', '3.1.11'
